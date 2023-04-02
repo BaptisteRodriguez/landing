@@ -1,0 +1,9 @@
+.btn-rouge {
+	background-color: darkred;
+	padding: 18px 25px;
+	border-radius: 15px;
+	color: white;
+	font-family: 'Roboto', serif;
+	font-weight: bold; 
+
+}
